@@ -24,24 +24,24 @@ Welcome to the InnovateTech Solutions website! This project was developed as par
 
 ## 📂 Project Structure
 
-college-assignment-website/
-│
-├── index.php # Home page
-├── about.php # About Us page
-├── services.php # Services page
-├── contact.php # Contact page with form
-├── admin/
-│ ├── login.php # Admin login
-│ └── dashboard.php # Admin dashboard
-├── css/
-│ └── styles.css # Main stylesheet
-├── js/
-│ └── script.js # Main JavaScript file
-├── includes/
-│ ├── header.php # Common header
-│ ├── footer.php # Common footer
-│ └── config.php # Database configuration (not included in repo)
-└── README.md # This file
+## 📂 Project Structure
+
+- `index.php`: Home page
+- `about.php`: About Us page
+- `services.php`: Services page
+- `contact.php`: Contact page with form
+- `admin/`
+  - `login.php`: Admin login
+  - `dashboard.php`: Admin dashboard
+- `css/`
+  - `styles.css`: Main stylesheet
+- `js/`
+  - `script.js`: Main JavaScript file
+- `includes/`
+  - `header.php`: Common header
+  - `footer.php`: Common footer
+  - `config.php`: Database configuration (not included in repo)
+- `README.md`: This file
 
 
 ## 🚀 Getting Started
@@ -50,7 +50,7 @@ college-assignment-website/
    ```
    git clone https://github.com/your-username/college-assignment-website.git
    ```
-2. Set up a local PHP development environment (e.g., XAMPP, WAMP).  BTW i didn't any of these simple apache2 and mysql thats it. 
+2. Set up a local PHP development environment (e.g., XAMPP, WAMP).  BTW i didn't use any of these simple apache2 ,mysql and GPT thats it. 
 3. Import the provided SQL file to set up the database.
 4. Configure your database connection in `includes/config.php`.
 5. Launch the website through your local server.
@@ -74,8 +74,8 @@ This project is open source and available under the [MIT License](LICENSE).
 
 ## 🙋‍♂️ Author
 
-Created with ❤️ by [THE-ONE&ONLY]
+Created with ❤️ by [ THE-ONE&ONLY ]
 
 ---
 
-SUBMITTED BY : me-myself       SUBMITTED TO : RAGHAV SIR    
+SUBMITTED BY   : me-myself              SUBMITTED TO : RAGHAV SIR    
