@@ -57,7 +57,7 @@ Welcome to the InnovateTech Solutions website! This project was developed as par
 
 # 📂 **Configuration**
 
-1. Copy `config.example.php` to `config.php`
+1. Copy `example.config.php` to `config.php`
 2. Edit `config.php` and replace the placeholder values with your actual database credentials of mysql.
 
 ## 👨‍💻 Admin Access
