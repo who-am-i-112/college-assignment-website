@@ -55,6 +55,11 @@ Welcome to the InnovateTech Solutions website! This project was developed as par
 4. Configure your database connection in `includes/config.php`.
 5. Launch the website through your local server.
 
+# 📂 **Configuration**
+
+1. Copy `config.example.php` to `config.php`
+2. Edit `config.php` and replace the placeholder values with your actual database credentials of mysql.
+
 ## 👨‍💻 Admin Access
 
 - URL: `/admin/login.php`
