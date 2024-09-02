@@ -1,1 +1,7 @@
+# Ignore actual config file
 config.php
+*.log
+.DS_Store
+
+# Don't ignore the example config
+!example.config.php
